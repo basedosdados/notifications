@@ -1,18 +1,10 @@
 {
     "general": {
-        "messages": [
-            "Test message 1"
-        ],
-        "warnings": [
-            "Test warning 1"
-        ]
+        "messages": [],
+        "warnings": []
     },
     "python": {
-        "messages": [
-            "Test message 2"
-        ],
-        "warnings": [
-            "Test warning 2"
-        ]
+        "messages": [],
+        "warnings": []
     }
 }
